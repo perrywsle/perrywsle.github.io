@@ -252,8 +252,8 @@ x^(n-1) :derived as following:</p>
 +(\lim_{\triangle x \rightarrow 0}\frac{h(x+\triangle x)}{\triangle x}\times \lim_{\triangle x \rightarrow 0}\frac{g(x+\triangle x)-g(x)}{\triangle x})\\
 &amp;=g&#039;(x)h(x)+g(x)h&#039;(x)
 \end{split}</p>
-<p>Geometric illustration:<br>
-![[Product rule.png]]</p>
+<p>Geometric illustration:</p>
+
 <p>Other rules involved:</p>
 <ul>
 <li>[First principle]</li>
@@ -363,6 +363,137 @@ x^(n-1) :derived as following:</p>
       </categories>
       <tags>
         <tag>calculus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chemistry experiments</title>
+    <url>/2023/12/15/Chemistry-experiments/</url>
+    <content><![CDATA[<p>Noting down 2023 foundation chemistry experiments. (Excellent academic integrity)</p>
+<h1>Analysis of vinegar</h1>
+<h2 id="equations-mathrm-ch-3cooh-naoh-rightarrow-mathrm-ch-3coona-h-2o">Equations: $$\mathrm{CH_3COOH+NaOH}\rightarrow\mathrm{CH_3COONa+H_2O}$$</h2>
+<p>Neutralisation reaction</p>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>Titrate slowly</li>
+<li>Use white paper as background</li>
+<li>Eye maintain parallel with meniscus when taking reading to avoid parallax error</li>
+</ul>
+<h2 id="formula-0-003-times-mathrm-a-titre">Formula $$0.003\times\mathrm{A.Titre}$$</h2>
+<p>Anyway this was our first failed experiment, the content of vingear was way too high, perhaps we did the titrations too fast.</p>
+<h1>Analysis of bleach</h1>
+<h2 id="equations">Equations:</h2>
+<h3 id="mathrm-ocl-2i-2h-rightarrow-mathrm-i-2-cl-h-2o">$$\mathrm{OCl^- + 2I^- + 2H^+}\rightarrow\mathrm{I_2 + Cl^- + H_2O}$$</h3>
+<ul>
+<li>Oxidizing agent: hypochlorite ion</li>
+<li>Reducing agent: iodide ion and hydrogen ion</li>
+</ul>
+<h3 id="mathrm-i-2-2s-2o-3-2-rightarrow-mathrm-s-4o-6-2-2i">$$\mathrm{I_2 + 2S_2O_3^“2-”} \rightarrow \mathrm{S_4O_6^“2-” + 2I^-}$$</h3>
+<ul>
+<li>Oxidizing agent: iodine</li>
+<li>Reducing agent: thiosulphate ion</li>
+</ul>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>Pls invert the volumetric flask to produce homogenous solution</li>
+<li>With each addition of thiosulfate, the concentration of I2 decreases, and the brown colour will fade to a pale yellow colour then to colourless, making <strong>detection of the end point difficult</strong>, thus, a <strong>small amount of starch is added</strong> near the endpoint, in order to form a deep blue complex with iodine that is easy to observe</li>
+<li>Eyes must maintain parallel with meniscus when taking reading to avoid parallax error</li>
+<li>Rinse the apparatus with correct solution</li>
+</ul>
+<h2 id="formula-frac-frac-mathrm-a-titre-div1000-times-0-1-2-div-0-02-times-250-times74-45-200">Formula $$\frac{[(\frac{\mathrm{A.Titre}\div1000\times 0.1}{2})\div 0.02]\times 250\times74.45}{200}$$</h2>
+<p>Expected result: 5%<br>
+Expected average titre: around 21.5</p>
+<h2 id="percentage-of-error-frac-mid-mathrm-theory-result-mid-mathrm-theory">Percentage of error $$\frac{\mid \mathrm{theory-result}\mid}{\mathrm{theory}}$$</h2>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li>back titration is performed to reduce the volume of titrant needed to complete decolourise the titrate</li>
+<li>Put potassium iodide and sulphuric acid in immediately without leaving them out in the open air</li>
+</ul>
+<p>This time our titration skills improved, but the results were still unsatisfactory (I think it is because I didn’t mix up the solution in volumetric flask properly). I’m starting to realize our report is too 啰嗦, but we weren’t making changes because we thought the more the better.</p>
+<h1>Chromatography of inks</h1>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>make sure inner wall of beaker is dry</li>
+<li>be careful</li>
+<li>watch glass placed concave 凹 outwards (prevent particles from entering)</li>
+<li>stop when liquid is 1cm from top of paper (be consistent with this)</li>
+<li>IMMEDIATELY record the level with pencil</li>
+<li>IMMEDIATELY put to entrance of fume chamber to</li>
+<li>IMMEDIATELY circle the spot when paper is dry</li>
+<li>For food dye, let spot dry then dip again</li>
+</ul>
+<h2 id="retention-value-formula-r-f-frac-text-traveldistance-component-text-traveldistance-solvent">Retention value formula: $$R_f = \frac{\text{traveldistance_component}}{\text{traveldistance_solvent}}$$</h2>
+<p>For such simple experiments we were only marked 2.9/3.75 🥲, because we forgot to label the colour columns, and our report is too long. Now that teacher hass pointed this out and we realized, we shall improve it.</p>
+<h1>Spectroscopy analysis</h1>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>make sure volumetric flask is inverted properly to create homogenous solution</li>
+<li>Make sure transparent side of cuvette is clean</li>
+</ul>
+<h2 id="formula-to-calculate-concentration-of-diluted-sodium-salicylate-c-1v-1-c-2v-2">Formula to calculate concentration of diluted sodium salicylate $$C_1V_1=C_2V_2$$</h2>
+<pre><code>sodium salicylate [C6H4(OH)COONa]
+ratio of reaction between sodium salicylate and iron (III)        chloride = 1:1
+</code></pre>
+<p>We are seeing improvements in our report marks.</p>
+<h1>Factors affecting rate of reaction</h1>
+<h2 id="reaction-hcl-na2s2o3-mathrm-s-2-mathrm-o-3-aq-2-mathrm-h-aq-rightarrow-mathrm-s-s-mathrm-so-2-g-mathrm-h-2o-l">Reaction (HCl + Na2S2O3): $$\mathrm{S}_2\mathrm{O}_3(aq) + 2\mathrm{H}^+(aq) \rightarrow \mathrm{S}(s) + \mathrm{SO}_2(g) + \mathrm{H}_2O(l)$$</h2>
+<ul>
+<li>Careful (sodium thiosulphate is hygroscopic btw)</li>
+<li>remember to blink when observing</li>
+</ul>
+<h1>Chemical equilibrium</h1>
+<h2 id="precaution">Precaution</h2>
+<ul>
+<li>be honest and trust the result</li>
+<li>handle cuvette carefully don’t stain the transparent side</li>
+</ul>
+<h2 id="data-analysis">Data analysis</h2>
+<ol>
+<li>Find concentration of Fe3+ and SCN- in each of the solutions.</li>
+<li>Find the concentration of FeSCN2+ at equilibrium using ratio of its absorbance against the standard FeSCN2+ solution absorbance: $$\mathrm{FeSCN^{2+}}<em>{(eq)} = \mathrm{M_standard} \times \frac{abs</em>{solution}}{abs_{standard}}$$</li>
+<li>Calculate the concentration of Fe3+ and SCN- at equilibrium using ICE method: $$\begin{aligned} \&amp;\mathrm{Fe^{3+}}<em>{eq}=\mathrm{FeSCN^{2+}}</em>{eq} - \mathrm{Fe^{3+}}<em>{0} \&amp;\mathrm{SCN^{-}}</em>{eq}=\mathrm{FeSCN^{2+}}<em>{eq} - \mathrm{SCN^{-}}</em>{0} \end{aligned}$$</li>
+<li>Calculate the equilibrium constant: $$\mathrm{K_c} = \frac{[\mathrm{FeSCN^{2+}}<em>{eq}]}{[\mathrm{Fe^{3+}}</em>{eq}][\mathrm{SCN^{-}}_{eq}]}$$</li>
+</ol>
+<p>I was 委以重任 to determine the disappearance of the X mark, yet I failed almost everytime because I didn’t blink during the observation and somehow the mark faded away from my view faster than it actually was. Nevertheless, it was ok.</p>
+<h1>Acid base equilibrium</h1>
+<h2 id="7a-ph-value-of-strong-and-weak-acid">7A: pH value of strong and weak acid</h2>
+<ul>
+<li>strong acid ionises completely in water</li>
+<li>weak acid ionises partially in water</li>
+</ul>
+<h2 id="7b-buffer-solutions">7B: buffer solutions</h2>
+<ul>
+<li>buffer solution is made by mixing weak acid with its conjugate base, forming a system of dynamic equilibrium</li>
+<li>when acid is added, the conjugate base amount is reduce because it accepted the protons,
+<ul>
+<li>thus the system shifts to right, produce more base, indirectly minimizing pH change</li>
+</ul>
+</li>
+<li>when base is added, the weak acid reacts with the hydroxide ions, decreasing in amount
+<ul>
+<li>thus the system shifts to left, producing more weak acid, indirectly minimizing the pH change</li>
+</ul>
+</li>
+</ul>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>Careful with dilutions</li>
+<li>Rinse apparatus before dilute</li>
+<li>Rinse pH meter’s probe everytime after/before use</li>
+</ul>
+<p>This time my brain 进水, putting the probe back in its solution everytime after use. I was not supposed to do that. Fortunately, the consequence was small because the solution was a buffer. Thank god everything turned out well, and we got the highest mark for our report in this semester (3.5/3.75) 😎</p>
+<h1>Identify unknown organic solvents</h1>
+<h2 id="precautions">Precautions</h2>
+<ul>
+<li>wear masks cuz it stinks, especially the esters</li>
+<li>be aware when observing effervescence occurence cuz it may occur in an instant then gone</li>
+</ul>
+<p>It was fun destroying our noses. Afterwards our class took a group photo. Good times.</p>
+]]></content>
+      <categories>
+        <category>study notes</category>
+      </categories>
+      <tags>
+        <tag>chemistry</tag>
       </tags>
   </entry>
 </search>
